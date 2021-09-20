@@ -3,5 +3,5 @@ layout: default
 ---
 
 <div class="lead pretty-links">
-  Hi! this is Damayanti and i am awesome!
+  Hi! I am Damayanti and I am awesome!
 </div>
